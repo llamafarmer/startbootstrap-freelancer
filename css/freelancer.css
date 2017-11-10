@@ -399,8 +399,8 @@ footer {
 .btn-success {
   font-weight: 700;
   color: white;
-  border-color: #18BC9C;
-  background-color: #18BC9C; }
+  border-color: #1759bc;
+  background-color: #1759bc; }
   .btn-success.focus, .btn-success:focus {
     color: white;
     border-color: #0a4b3e;
@@ -428,8 +428,8 @@ footer {
   fieldset[disabled] .btn-success.focus,
   fieldset[disabled] .btn-success:focus,
   fieldset[disabled] .btn-success:hover {
-    border-color: #18BC9C;
-    background-color: #18BC9C; }
+    border-color: #1759bc;
+    background-color: #1759bc; }
   .btn-success .badge {
     color: #18BC9C;
     background-color: white; }
